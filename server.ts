@@ -1,6 +1,8 @@
 /*
  * Copyright (c) 2014-2026 Bjoern Kimminich & the OWASP Juice Shop contributors.
  * SPDX-License-Identifier: MIT
+
+ 
  */
 import i18n from 'i18n'
 import cors from 'cors'
